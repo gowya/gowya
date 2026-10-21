@@ -1,8 +1,8 @@
-# Margaux Francillard — Product Designer qui livre en production
+# Product Designer qui livre en production
 
 Je conçois des produits **et** je les livre : de la discovery jusqu'au code en prod, testé et déployé.
 
-- 🎨 Product Design chez Waalaxy — design system **WAATOM** (Storybook)
+- 🎨 Product Design chez Waalaxy & Lead design system **WAATOM** (Storybook)
 - 🛠️ Freelance : **Vela**, app de suivi patient conforme RGPD/HDS, conçue et codée de A à Z
 - 🌐 Portfolio : **[gaumsportfolio.vercel.app](https://gaumsportfolio.vercel.app)**
 
