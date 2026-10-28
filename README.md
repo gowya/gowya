@@ -8,7 +8,7 @@ Je conçois des produits **et** je les livre : de la discovery jusqu'au code en 
 
 ## Projet phare
 
-### [Vela](https://github.com/gowya/vela) — [▶ voir la démo](https://velaconsult.vercel.app)
+### [Vela](https://github.com/gowya/vela) — [▶ voir la démo](https://velaconsult.vercel.app/demo)
 Outil de suivi patient pour psychologues, sexologues, hypnothérapeutes…
 Le problème : des données de santé ultra-sensibles, des praticiens non techniques, zéro tolérance à l'erreur.
 
